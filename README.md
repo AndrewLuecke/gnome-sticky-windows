@@ -1,0 +1,1 @@
+# gnome-sticky-windows
